@@ -1,0 +1,12 @@
+.env-plan-container{
+  width: 60%;
+}
+
+.next-select{
+  width:100%;
+}
+
+.env-plan-option{
+  float: right;
+  margin-right:80px;
+}
